@@ -1,0 +1,10 @@
+# Python version requirement
+# Python 3.7+
+
+# No external dependencies required
+# This compiler uses only Python standard library
+
+# For development/testing (optional):
+# pytest>=7.0.0        # For unit testing
+# black>=22.0.0        # For code formatting
+# pylint>=2.0.0        # For code linting
